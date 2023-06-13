@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.zufangzi.matrixgs",
+    "package_name": "ysbang.cn",
     "sha256_cert_fingerprints":
-    ["84:C6:5E:EC:2C:02:DF:6A:D1:4F:F1:3B:C3:AB:07:F2:E5:A8:D2:A3:09:03:A2:59:CE:B0:C9:0C:D7:6B:37:96"]
+    ["3B:E3:32:C0:7E:74:DF:BB:89:9C:CB:2C:D1:A2:27:02:CA:B7:6C:DE:B5:4E:8B:EC:0A:FE:40:EE:02:37:CF:44"]
   }
 }]
